@@ -33,17 +33,17 @@
                 },
                 {
                     "albumId": 1,
-                    "albumName": "John's album 1",
+                    "albumName": "John's album 2",
                     "albumImage": "image.png"
                 },
                 {
                     "albumId": 2,
-                    "albumName": "John's album 1",
+                    "albumName": "John's album 3",
                     "albumImage": "image.png"
                 },
                 {
                     "albumId": 3,
-                    "albumName": "John's album 1",
+                    "albumName": "John's album 4",
                     "albumImage": "image.png"
                 }
             ]
