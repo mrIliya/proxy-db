@@ -95,6 +95,198 @@
                     "albumImage": "image"
                 }
             ]
+        },
+        {
+            "id": 2,
+            "name": "Yevgen",
+            "posts": [
+                {
+                    "postId": 0,
+                    "postName": "post",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 1,
+                    "postName": "post-one",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 2,
+                    "postName": "post-two",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 3,
+                    "postName": "post-three",
+                    "postText": "Lorem ipsum dolor"
+                }
+            ],
+            "albums": [
+                {
+                    "albumId": 0,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 1,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 2,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 3,
+                    "albumName": "album",
+                    "albumImage": "image"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Petro",
+            "posts": [
+                {
+                    "postId": 0,
+                    "postName": "post",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 1,
+                    "postName": "post-one",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 2,
+                    "postName": "post-two",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 3,
+                    "postName": "post-three",
+                    "postText": "Lorem ipsum dolor"
+                }
+            ],
+            "albums": [
+                {
+                    "albumId": 0,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 1,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 2,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 3,
+                    "albumName": "album",
+                    "albumImage": "image"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Natalya",
+            "posts": [
+                {
+                    "postId": 0,
+                    "postName": "post",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 1,
+                    "postName": "post-one",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 2,
+                    "postName": "post-two",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 3,
+                    "postName": "post-three",
+                    "postText": "Lorem ipsum dolor"
+                }
+            ],
+            "albums": [
+                {
+                    "albumId": 0,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 1,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 2,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 3,
+                    "albumName": "album",
+                    "albumImage": "image"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Alex",
+            "posts": [
+                {
+                    "postId": 0,
+                    "postName": "post",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 1,
+                    "postName": "post-one",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 2,
+                    "postName": "post-two",
+                    "postText": "Lorem ipsum dolor"
+                },
+                {
+                    "postId": 3,
+                    "postName": "post-three",
+                    "postText": "Lorem ipsum dolor"
+                }
+            ],
+            "albums": [
+                {
+                    "albumId": 0,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 1,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 2,
+                    "albumName": "album",
+                    "albumImage": "image"
+                },
+                {
+                    "albumId": 3,
+                    "albumName": "album",
+                    "albumImage": "image"
+                }
+            ]
         }
     ]
 }
