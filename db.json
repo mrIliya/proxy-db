@@ -287,54 +287,6 @@
                     "albumImage": "image.png"
                 }
             ]
-        },
-        {
-            "id": 6,
-            "name": "Alexander",
-            "posts": [
-                {
-                    "postId": 0,
-                    "postName": "post",
-                    "postText": "[Alexander's post 1] Lorem ipsum dolor"
-                },
-                {
-                    "postId": 1,
-                    "postName": "post-one",
-                    "postText": "[Alexander's post 2] Lorem ipsum dolor"
-                },
-                {
-                    "postId": 2,
-                    "postName": "post-two",
-                    "postText": "[Alexander's post 3] Lorem ipsum dolor"
-                },
-                {
-                    "postId": 3,
-                    "postName": "post-three",
-                    "postText": "[Alexander's post 4] Lorem ipsum dolor"
-                }
-            ],
-            "albums": [
-                {
-                    "albumId": 0,
-                    "albumName": "Alexander's album 1",
-                    "albumImage": "image.png"
-                },
-                {
-                    "albumId": 1,
-                    "albumName": "Alexander's album 2",
-                    "albumImage": "image.png"
-                },
-                {
-                    "albumId": 2,
-                    "albumName": "Alexander's album 3",
-                    "albumImage": "image.png"
-                },
-                {
-                    "albumId": 3,
-                    "albumName": "Alexander's album 4",
-                    "albumImage": "image.png"
-                }
-            ]
         }
     ]
 }
